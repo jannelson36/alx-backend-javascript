@@ -1,8 +1,8 @@
 # NodeJS Basics
 
-This project contains tasks for learning to the basics of NodeJS.
+This project contains tasks about basics of NodeJS.
 
-## Tasks To Complete
+## Tasks
 
 + [x] 0. **Executing basic javascript with Node JS**<br/>[0-console.js](0-console.js) includes a module that exports a function named `displayMessage` that prints in `STDOUT` the string argument.
 
